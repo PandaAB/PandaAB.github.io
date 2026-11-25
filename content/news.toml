@@ -1,0 +1,19 @@
+[[news]]
+date = "2026-11"
+content = "Our paper **IntentCoder** (*Enhancing Repository-Level Code Completion with Reinforcement Learning in Real-World Scenarios*) was accepted to **EMNLP 2026** ([arXiv](https://arxiv.org/abs/2611.07510) · [GitHub](https://github.com/zhenlongDai/RepoCompletion))."
+
+[[news]]
+date = "2026-01"
+content = "Our paper **LSGEN** (*Learner-Tailored Program Repair*) was accepted to **AAAI 2026**, with code released on [GitHub](https://github.com/PandaAB/LSGen)."
+
+[[news]]
+date = "2025-09"
+content = "Joined the School of Software Technology, Zhejiang University as an M.Eng. student."
+
+[[news]]
+date = "2025-06"
+content = "Graduated from Guizhou University with a B.Eng. in Communication Engineering (Ranked 1/113, GPA 4.25/5.0)."
+
+[[news]]
+date = "2025-03"
+content = "Our paper **AdaPatcher** (*Less is More: Adaptive Program Repair with Bug Localization and Preference Learning*) was accepted as an **Oral** presentation at **AAAI 2025**."

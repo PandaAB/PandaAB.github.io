@@ -1,0 +1,63 @@
+type = "card"
+title = "项目"
+description = "涵盖 AI for Coding、大模型 Agent、程序修复与流式多模态理解的科研与工程项目。"
+
+[[items]]
+title = "流式视频多 Query 主动响应"
+subtitle = "近期在研 · 多模态大模型 / 流式视频交互"
+date = "2026 – 至今"
+content = """
+研究连续视频流输入下用户请求（Query）随时间动态变化时，模型如何持续感知新 Query、抑制过时 Query 干扰，并在流式显存与延迟约束下决定主动触发回复的时机与策略。
+"""
+tags = ["多模态大模型", "流式视频", "主动响应"]
+
+[[items]]
+title = "面向代码仓库的 Skill 演化驱动单元测试生成"
+subtitle = "项目主研 · 在投"
+date = "2025.08 – 2026.08"
+content = """
+针对大模型在真实代码仓库中缺乏函数依赖感知及测试经验难以复用的问题，设计了结合静态依赖分析、局部记忆与执行反馈驱动的测试 Skill 演化框架，并在 10 个常用 Python 开源项目上完成系统评测。
+"""
+tags = ["AI for Coding", "LLM Agents", "Skill 演化", "单元测试生成"]
+
+[[items]]
+title = "IntentCoder：基于强化学习的仓库级代码补全"
+subtitle = "核心成员 · EMNLP 2026"
+date = "2026"
+content = """
+面向真实场景的仓库级代码补全，提出结合标识符驱动意图识别、奖励驱动补全学习与选择性探索策略优化的强化学习框架，更好地平衡文件内与跨文件上下文。
+
+相关链接：[论文 (arXiv)](https://arxiv.org/abs/2611.07510) · [代码 (GitHub)](https://github.com/zhenlongDai/RepoCompletion)
+"""
+tags = ["EMNLP 2026", "强化学习", "代码补全", "Code LLM"]
+
+[[items]]
+title = "LSGEN：学习者定制化程序修复"
+subtitle = "主要完成人 · AAAI 2026"
+date = "2024.12 – 2025.08"
+content = """
+面向编程教育场景提出学习者定制化程序修复任务（LPR）、LPR-Bench 评测基准与基于迭代编辑驱动检索增强的 LSGEN 框架，在修复代码的同时生成针对性的错误成因解释。
+
+相关链接：[论文 (arXiv)](https://arxiv.org/abs/2601.08545) · [代码 (GitHub)](https://github.com/PandaAB/LSGen)
+"""
+tags = ["AAAI 2026", "RAG", "程序修复", "Code LLM"]
+
+[[items]]
+title = "AdaPatcher：基于 Bug 定位与偏好学习的自适应程序修复"
+subtitle = "核心成员 · AAAI 2025 Oral"
+date = "2024.05 – 2024.08"
+content = """
+围绕保持原始代码结构一致性的自适应修复任务（AdaPR）构建两阶段修复框架，负责第一阶段基于差异（diff-based）的缺陷定位与 Self-Debug Learning 实现及优化，配合第二阶段偏好学习提升最小改动修复准确率。
+
+相关链接：[论文 (arXiv)](https://arxiv.org/abs/2503.06510) · [代码 (GitHub)](https://github.com/zhenlongDai/AdaPatcher)
+"""
+tags = ["AAAI 2025 Oral", "缺陷定位", "偏好学习"]
+
+[[items]]
+title = "基于多模态信息融合的老人行为识别（M-GCN）"
+subtitle = "项目负责人 · 大学生创新创业项目"
+date = "2023.09 – 2024.09"
+content = """
+围绕多模态图卷积网络（M-GCN）开展研究，在 NTU RGB+D 数据集中筛选 10 类日常行为共 9,492 个视频片段，融合骨骼序列结构特征与 RGB 视频视觉特征实现时空行为识别。
+"""
+tags = ["多模态融合", "图卷积网络", "行为识别"]

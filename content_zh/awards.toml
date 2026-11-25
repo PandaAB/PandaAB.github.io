@@ -1,0 +1,29 @@
+type = "card"
+title = "荣誉与奖项"
+description = "主要竞赛获奖与校级荣誉汇总。"
+
+[[items]]
+title = "本科专业第一（1/113）& 校级荣誉（11 项）"
+subtitle = "贵州大学 · 通信工程（GPA 4.25/5.0）"
+date = "2021 – 2025"
+content = "获一等奖学金、三好学生、优秀学生干部等共计 11 项荣誉称号。"
+
+[[items]]
+title = "第十四届全国大学生数学竞赛（非数学类）省级一等奖"
+subtitle = "中国数学会"
+date = "2023"
+
+[[items]]
+title = "第十四届蓝桥杯（C/C++ 组）省赛三等奖"
+subtitle = "全国软件和信息技术专业人才大赛"
+date = "2023"
+
+[[items]]
+title = "第十届“大唐杯”移动 5G 技术大赛 贵州赛区三等奖"
+subtitle = "队长"
+date = "2023"
+
+[[items]]
+title = "全国大学生数学建模竞赛省三 & MathorCup 三等奖"
+subtitle = "数学建模竞赛（MathorCup 队长）"
+date = "2023"

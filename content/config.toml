@@ -1,0 +1,72 @@
+[site]
+title = "Zhuoluo Zhao"
+description = "M.Eng. student in Software Engineering at Zhejiang University, focusing on AI for Coding, LLM Agents, and Multimodal / Streaming Video LLMs."
+favicon = "/favicon.svg"
+last_updated = "November 25, 2026"
+
+[author]
+name = "Zhuoluo Zhao"
+title = "M.Eng. Student"
+institution = "Zhejiang University"
+avatar = "/bio.jpg"
+
+[social]
+# Contact information (leave blank or delete to hide)
+email = "zhuoluozhao@zju.edu.cn"
+location = "Hangzhou, China"
+location_url = "https://maps.google.com/?q=Zhejiang+University+Zijingang+Campus"
+location_details = [
+  "School of Software Technology,",
+  "Zhejiang University, Hangzhou, China"
+]
+github = "https://github.com/PandaAB"
+
+[features]
+# Show a like button on the about page
+enable_likes = true
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["zh", "en"]
+default_locale = "en"
+mode = "auto"
+fixed_locale = "en"
+persist = true
+switcher = true
+
+[i18n.labels]
+zh = "中文"
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Projects"
+type = "page"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

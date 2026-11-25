@@ -1,0 +1,29 @@
+type = "card"
+title = "Awards"
+description = "Major competition awards and university honors."
+
+[[items]]
+title = "Rank 1 / 113 & University Honors (11 Awards)"
+subtitle = "Guizhou University · Communication Engineering (GPA 4.25/5.0)"
+date = "2021 – 2025"
+content = "Received 11 university/college-level honors including First-Class Scholarships and Merit Student awards."
+
+[[items]]
+title = "14th National College Mathematics Competition — Provincial First Prize"
+subtitle = "Non-Mathematics Category"
+date = "2023"
+
+[[items]]
+title = "14th Lanqiao Cup (C/C++) — Provincial Third Prize"
+subtitle = "National Software & IT Professionals Competition"
+date = "2023"
+
+[[items]]
+title = "10th Datang Cup 5G Technology Competition — Provincial Third Prize"
+subtitle = "Guizhou Division · Team Leader"
+date = "2023"
+
+[[items]]
+title = "CUMCM (Provincial 3rd) & MathorCup (3rd Prize)"
+subtitle = "Mathematical Modeling Competitions · MathorCup Team Leader"
+date = "2023"

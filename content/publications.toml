@@ -1,0 +1,4 @@
+type = "publication"
+title = "Publications"
+description = "Selected peer-reviewed publications in AI for Coding and automated program repair."
+source = "publications.bib"

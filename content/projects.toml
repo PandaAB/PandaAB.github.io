@@ -1,0 +1,63 @@
+type = "card"
+title = "Projects"
+description = "Research and engineering projects across LLM Coding Agents, Program Repair, and Multimodal Streaming Video."
+
+[[items]]
+title = "Proactive Multi-Query Response for Streaming Video"
+subtitle = "Ongoing Research · Multimodal / Streaming Video LLM"
+date = "2026 – Present"
+content = """
+Investigating how multimodal models continuously track evolving user queries over live video streams. Focusing on proactive response triggering, suppressing stale query interference, and query-aware KV cache / memory management under streaming latency constraints.
+"""
+tags = ["Multimodal LLM", "Streaming Video", "Proactive Response"]
+
+[[items]]
+title = "Skill-Evolution-Driven Repository-Level Unit Test Generation"
+subtitle = "Lead Researcher · Under Review"
+date = "2025.08 – 2026.08"
+content = """
+Designed a repository-level unit test generation framework combining static function dependency analysis, local memory, and an execution-feedback-driven skill evolution mechanism so test-writing experience transfers across cases. Evaluated across 10 widely used Python open-source repositories.
+"""
+tags = ["AI for Coding", "LLM Agents", "Skill Evolution", "Unit Testing"]
+
+[[items]]
+title = "IntentCoder: Repository-Level Code Completion with RL"
+subtitle = "Core Contributor · EMNLP 2026"
+date = "2026"
+content = """
+Proposed a reinforcement learning framework for real-world repository-level code completion, combining identifier-driven intent recognition, reward-driven completion learning, and selective-exploration strategy optimization to better balance in-file and cross-file contexts.
+
+Links: [Paper (arXiv)](https://arxiv.org/abs/2611.07510) · [Code (GitHub)](https://github.com/zhenlongDai/RepoCompletion)
+"""
+tags = ["EMNLP 2026", "Reinforcement Learning", "Code Completion", "Code LLMs"]
+
+[[items]]
+title = "LSGEN: Learner-Tailored Program Repair"
+subtitle = "First-Author Work · AAAI 2026"
+date = "2024.12 – 2025.08"
+content = """
+Proposed the Learner-Tailored Program Repair (LPR) task, LPR-Bench, and LSGEN—an iterative edit-driven retrieval-augmented framework that generates both repaired programs and learner-friendly bug explanations.
+
+Links: [Paper (arXiv)](https://arxiv.org/abs/2601.08545) · [Code (GitHub)](https://github.com/PandaAB/LSGen)
+"""
+tags = ["AAAI 2026", "RAG", "Program Repair", "Code LLMs"]
+
+[[items]]
+title = "AdaPatcher: Adaptive Program Repair"
+subtitle = "Core Contributor · AAAI 2025 Oral"
+date = "2024.05 – 2024.08"
+content = """
+Defined Adaptive Program Repair (AdaPR) for minimal-edit bug fixing and built a two-stage framework (AdaPatcher). Implemented diff-based bug localization and Self-Debug Learning in Stage 1 to improve runtime error localization before preference-aligned patch generation.
+
+Links: [Paper (arXiv)](https://arxiv.org/abs/2503.06510) · [Code (GitHub)](https://github.com/zhenlongDai/AdaPatcher)
+"""
+tags = ["AAAI 2025 Oral", "Bug Localization", "Preference Learning"]
+
+[[items]]
+title = "Multimodal Elderly Activity Recognition (M-GCN)"
+subtitle = "Project Lead · Undergraduate Innovation Program"
+date = "2023.09 – 2024.09"
+content = """
+Researched Multimodal Graph Convolutional Networks (M-GCN) fusing skeleton sequences and RGB video streams for daily activity recognition on 9,492 video clips across 10 categories from NTU RGB+D.
+"""
+tags = ["Multimodal", "GCN", "Action Recognition"]

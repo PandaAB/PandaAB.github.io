@@ -1,0 +1,19 @@
+[[news]]
+date = "2026-11"
+content = "论文 **IntentCoder**（基于强化学习的真实场景仓库级代码补全）被 **EMNLP 2026** 录用（[arXiv](https://arxiv.org/abs/2611.07510) · [GitHub](https://github.com/zhenlongDai/RepoCompletion)）。"
+
+[[news]]
+date = "2026-01"
+content = "论文 **LSGEN**（面向学习者的定制化程序修复）被 **AAAI 2026** 录用，代码已开源至 [GitHub](https://github.com/PandaAB/LSGen)。"
+
+[[news]]
+date = "2025-09"
+content = "进入浙江大学软件学院攻读软件工程硕士学位。"
+
+[[news]]
+date = "2025-06"
+content = "本科毕业于贵州大学通信工程专业（专业排名 1/113，GPA 4.25/5.0）。"
+
+[[news]]
+date = "2025-03"
+content = "论文 **AdaPatcher**（基于 Bug 定位与偏好学习的自适应程序修复）被 **AAAI 2025** 录用为 **Oral** 报告。"
